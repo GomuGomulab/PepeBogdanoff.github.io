@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1672],{608:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/PepeBogdanoff.github.io/blog/tags/hello","allTagsPath":"/PepeBogdanoff.github.io/blog/tags","count":2}')}}]);
